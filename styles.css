@@ -43,7 +43,9 @@ body,
     gap:15px;
     margin-top:20px;
 }
-
+body{
+    margin:0px;
+}
 .top,
 .footer{
 background-color: #1F2937;
